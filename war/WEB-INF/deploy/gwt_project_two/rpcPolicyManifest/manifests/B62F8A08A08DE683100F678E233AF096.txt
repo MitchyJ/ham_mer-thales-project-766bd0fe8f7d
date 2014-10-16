@@ -1,0 +1,2 @@
+serviceClass: fyp.hammer.client.service.Service
+path: 82FD2130973FFC007B58AE255FF8303E.gwt.rpc
